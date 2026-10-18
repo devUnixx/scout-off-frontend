@@ -476,7 +476,10 @@
     "og_image_alt": "ScoutOff — Utafutaji wa Vipaji vya Soka Uliogatuliwa kwenye Stellar"
   },
   "offline": {
-    "bannerMessage": "Uko nje ya mtandao. Baadhi ya vipengele huenda visipatikane hadi muunganisho urudi."
+    "bannerMessage": "Huna mtandao. Baadhi ya vipengele vinaweza kutofanya kazi mpaka muunganisho urejee.",
+    "fallback_heading": "Huna mtandao",
+    "fallback_body": "Ukurasa huu haukuhifadhiwa kwenye kifaa chako. Tafadhali unganisha upya mtandao na ujaribu tena, au nenda kwenye ukurasa uliowahi kutembelea.",
+    "fallback_retry": "Jaribu tena"
   },
   "apiErrors": {
     "RATE_LIMITED": "Maombi ni mengi mno. Tafadhali punguza kasi na ujaribu tena baada ya muda mfupi.",

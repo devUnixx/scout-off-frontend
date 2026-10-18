@@ -476,7 +476,10 @@
     "og_image_alt": "ScoutOff — Recrutement footballistique décentralisé sur Stellar"
   },
   "offline": {
-    "bannerMessage": "Vous êtes hors ligne. Certaines fonctionnalités peuvent être indisponibles jusqu'au retour de la connexion."
+    "bannerMessage": "Vous êtes hors ligne. Certaines fonctionnalités peuvent être indisponibles jusqu'au retour de la connexion.",
+    "fallback_heading": "Vous êtes hors ligne",
+    "fallback_body": "Cette page n'a pas été mise en cache sur votre appareil. Reconnectez-vous à internet et réessayez, ou accédez à une page que vous avez déjà visitée.",
+    "fallback_retry": "Réessayer"
   },
   "apiErrors": {
     "RATE_LIMITED": "Trop de requêtes. Veuillez ralentir et réessayer dans un instant.",
